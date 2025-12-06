@@ -84,6 +84,7 @@ npm start
 ## API Endpoints
 - GET `/api/transactions`
 - POST `/api/transactions`
+- PUT `/api/transactions/:id`
 - DELETE `/api/transactions/:id`
 
 ---
